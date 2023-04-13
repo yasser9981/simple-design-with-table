@@ -1,0 +1,15 @@
+.first{
+    background-image: url(front.png);
+    background-size: contain;
+
+}
+
+.second{
+    background-image: url(earth-grid.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 200px;
+    height: 200px;
+
+}
